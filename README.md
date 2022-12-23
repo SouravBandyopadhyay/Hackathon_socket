@@ -7,7 +7,7 @@ NEXTJS, Socket.io, Chakra UI, React Icon, TypeScript
 
 
 ## Deployment Link
-https://timely-cucurucho-1b7757.netlify.app/
+
 
 ## Features
 
