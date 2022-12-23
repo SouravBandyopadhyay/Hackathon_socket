@@ -7,7 +7,7 @@ NEXTJS, Socket.io, Chakra UI, React Icon, TypeScript
 
 
 ## Deployment Link
-
+https://finchat-souravbandyopadhyay.vercel.app/
 
 ## Features
 
