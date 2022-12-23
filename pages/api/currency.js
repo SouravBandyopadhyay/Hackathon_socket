@@ -1,4 +1,4 @@
-import dbConnect from "../../lib/dbconnect";
+// import dbConnect from "../../lib/dbconnect";
 import CurrencyModel from "../../models/currency.model";
 
 export default async function currency(req, res) {
